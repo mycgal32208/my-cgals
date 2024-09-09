@@ -51,45 +51,45 @@ function App() {
     }
     ];
     const cgalList = [{
-        image: cgal1,
-        cgalInfoHeader: 'Kavya Indore Low price High profile call girl Service 24 hour',
-        cgalInfoDesc: 'Hi, Call me Kavya. Hand to hand payment no advance. Hotel and home available 24 hours.'
-      },
-      {
-        image: cgal2,
-        cgalInfoHeader: 'PRIYA Indore Call☎️ to FULL HARD FUCK SUCK BOOBS',
-        cgalInfoDesc: 'My name is Priya, I’m available in Indore..Big Boobs with curvy body.'
-      },
-      {
-        image: cgal3,
-        cgalInfoHeader: 'Best Indore Girl Giving Sexual Services',
-        cgalInfoDesc: 'Hi there, my name is Anaya and I’m a slim and hot independent call girl in Indore.Suck my hot tits, lick nipples & fuck hard.'
-      },
-      {
-        image: cgal4,
-        cgalInfoHeader: 'Pay Cash With No Advance Genuine And Real Meet',
-        cgalInfoDesc: 'Totally Payment Cash in Hand Girl....... No Advance and WhatsApp I will Reply Immediately 24/7 Hours Service Available....'
-      },
-      {
-        image: cgal5,
-        cgalInfoHeader: 'Neha VIP Call Girl Available in indore',
-        cgalInfoDesc: 'Your satisfaction is our responsibility.⭐⭐💖 *Service. Available* 1.▪Kissing (French kiss also) 2.▪Liplock. 3.▪Blowjob. Without. Condom. 4.▪Oral sex. 5.▪Anal.sex 6.▪Sucking. 7.▪Fucking.'
-      },
-      {
-        image: cgal6,
-        cgalInfoHeader: 'NO ADVANCE 💥💯Indore best VIP genuine high profile girl available 24 hours call me now',
-        cgalInfoDesc: '🌟Hotel service available 24 hour💐 Hotel outservice and ins with regular price, guarantee satisfaction genuine service.'
-      },
-      {
-        image: cgal7,
-        cgalInfoHeader: 'Myself Saloni Provide Best Service',
-        cgalInfoDesc: 'Saloni Here. Provide full saisfaction- Anal Sex, Vaginal Sex Blowjob, Suck Boobs, Full Night Hotel Service available'
-      },
-      {
-        image: cgal8,
-        cgalInfoHeader: 'Divya VIP call girl unlimited shot without condom.',
-        cgalInfoDesc: '100% Customers Satisfaction Guarantee // 100 % VIP Profiles Top Grade Service. I GUARANTEE FULL SATISFACTION & IN CASE OF ANY UNHAPPY EXPERIENCE, I WOULD REFUND YOUR FEES'
-      }
+      image: cgal1,
+      cgalInfoHeader: 'Kavya Indore Low price High profile call girl Service 24 hour',
+      cgalInfoDesc: 'Hi, Call me Kavya. Hand to hand payment no advance. Hotel and home available 24 hours.'
+    },
+    {
+      image: cgal2,
+      cgalInfoHeader: 'PRIYA Indore Call☎️ to FULL HARD FUCK SUCK BOOBS',
+      cgalInfoDesc: 'My name is Priya, I’m available in Indore..Big Boobs with curvy body.'
+    },
+    {
+      image: cgal3,
+      cgalInfoHeader: 'Best Indore Girl Giving Sexual Services',
+      cgalInfoDesc: 'Hi there, my name is Anaya and I’m a slim and hot independent call girl in Indore.Suck my hot tits, lick nipples & fuck hard.'
+    },
+    {
+      image: cgal4,
+      cgalInfoHeader: 'Pay Cash With No Advance Genuine And Real Meet',
+      cgalInfoDesc: 'Totally Payment Cash in Hand Girl....... No Advance and WhatsApp I will Reply Immediately 24/7 Hours Service Available....'
+    },
+    {
+      image: cgal5,
+      cgalInfoHeader: 'Neha VIP Call Girl Available in indore',
+      cgalInfoDesc: 'Your satisfaction is our responsibility.⭐⭐💖 *Service. Available* 1.▪Kissing (French kiss also) 2.▪Liplock. 3.▪Blowjob. Without. Condom. 4.▪Oral sex. 5.▪Anal.sex 6.▪Sucking. 7.▪Fucking.'
+    },
+    {
+      image: cgal6,
+      cgalInfoHeader: 'NO ADVANCE 💥💯Indore best VIP genuine high profile girl available 24 hours call me now',
+      cgalInfoDesc: '🌟Hotel service available 24 hour💐 Hotel outservice and ins with regular price, guarantee satisfaction genuine service.'
+    },
+    {
+      image: cgal7,
+      cgalInfoHeader: 'Myself Saloni Provide Best Service',
+      cgalInfoDesc: 'Saloni Here. Provide full saisfaction- Anal Sex, Vaginal Sex Blowjob, Suck Boobs, Full Night Hotel Service available'
+    },
+    {
+      image: cgal8,
+      cgalInfoHeader: 'Divya VIP call girl unlimited shot without condom.',
+      cgalInfoDesc: '100% Customers Satisfaction Guarantee // 100 % VIP Profiles Top Grade Service. IN CASE OF ANY UNHAPPY EXPERIENCE, I WOULD REFUND YOUR FEES'
+    }
     ];
 
     return (

@@ -85,8 +85,8 @@
   height: auto;
   margin-right: auto;
   background:#dbd3ea;
-  padding-left: 1vw;
-  padding-right: 1.5vw;
+  padding-left: 3vw;
+  padding-right: 3.5vw;
   padding-bottom: 0vw;
 }
 
@@ -101,7 +101,7 @@
   font-size: 2vw;
   font-weight: 600;
   color: rgb(27, 26, 26);
-  text-align: center;
+  text-align: justify;
   margin-bottom: 0.5vw;
 }
 
@@ -130,15 +130,15 @@
 
 .image-Container {
   border-style: solid;
-  position: relative;
   max-width: 100%;
   height: auto;
   margin-left: auto;
   background-color: rgb(247, 200, 162);
   display: inline-block;
   padding-right: 0vw;
-  margin-bottom: 0.5vw;
-  margin-top: 0.5vw;
+  margin-bottom: 0vw;
+  margin-top: 0vw;
+  padding-bottom: 0vw;
 }
 
 .cgalImg {
@@ -155,7 +155,6 @@
   justify-content: flex-start;
   padding: 0;
   max-width: 70%;
-  border-style: ridge;
   height: 100%;
   margin-right: 0vw;
   background-color: rgb(247, 200, 162);
@@ -276,10 +275,10 @@ li a:hover {
 }
 
 .bottom-header-text {
-  margin-left: 1vw;
+  margin-left: 1.1vw;
   padding-left : 0vw;
   color:rgb(247, 242, 242);
-  font-size: 3vw;
+  font-size: 3.5vw;
   margin-top: 1vw;
   margin-bottom: 0.5vw;
   padding-bottom : 0vw;
@@ -288,9 +287,10 @@ li a:hover {
 }
 
 .city-list {
-  padding-left: 0.5vw;
+  padding-left: 0vw;
   padding-right: 1vw;
-  margin-bottom:1vw
+  margin-bottom:1vw;
+  border-style: solid;
 }
 
 .city {
@@ -299,9 +299,11 @@ li a:hover {
   display: inline-block;
   vertical-align:top;
   padding-top: 0vw;
-  padding-right: 1vw;
+  padding-right: 0vw;
+  padding-left: 1vw;
   margin-right: 0vw; 
   font-size: 2vw;
+  border-style: solid;
 }
 
 .city-text {
@@ -317,16 +319,17 @@ li a:hover {
   list-style-type: square;
   list-style-type: square;
   font-size: 1.5vw;
-  margin-left: 0.5vw;
+  margin-left: 0vw;
   font-size: 1vw;
+  border-style: solid;
 }
 
 .area-name {
   color:rgb(247, 239, 239);
-  font-size: 1vw;
+  font-size: 1.5vw;
   margin-bottom:0.5vw;
-  margin-left: 1vw;
-  padding-left: 0.5vw
+  margin-left: 1.2vw;
+  padding-left: 0vw;
 }
 
 .bottom-header-text-2 {
