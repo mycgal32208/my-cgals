@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-cgals/static/css/main.4e024bf5.css",
-    "main.js": "/my-cgals/static/js/main.f9909fdf.js",
+    "main.css": "/my-cgals/static/css/main.b21a71fb.css",
+    "main.js": "/my-cgals/static/js/main.cf73ea0e.js",
     "static/js/453.ce38628c.chunk.js": "/my-cgals/static/js/453.ce38628c.chunk.js",
     "static/media/sexy-girl-2.jpg": "/my-cgals/static/media/sexy-girl-2.91682f3a388195e7f2ac.jpg",
     "static/media/call-girl-8.jpeg": "/my-cgals/static/media/call-girl-8.93c4de94417937b74365.jpeg",
@@ -13,12 +13,12 @@
     "static/media/call-girl-1.jpeg": "/my-cgals/static/media/call-girl-1.5fa6552bad227e81a9c9.jpeg",
     "static/media/call-girl-2.jpeg": "/my-cgals/static/media/call-girl-2.432a241f9103150c71eb.jpeg",
     "index.html": "/my-cgals/index.html",
-    "main.4e024bf5.css.map": "/my-cgals/static/css/main.4e024bf5.css.map",
-    "main.f9909fdf.js.map": "/my-cgals/static/js/main.f9909fdf.js.map",
+    "main.b21a71fb.css.map": "/my-cgals/static/css/main.b21a71fb.css.map",
+    "main.cf73ea0e.js.map": "/my-cgals/static/js/main.cf73ea0e.js.map",
     "453.ce38628c.chunk.js.map": "/my-cgals/static/js/453.ce38628c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e024bf5.css",
-    "static/js/main.f9909fdf.js"
+    "static/css/main.b21a71fb.css",
+    "static/js/main.cf73ea0e.js"
   ]
 }
