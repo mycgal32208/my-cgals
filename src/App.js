@@ -12,15 +12,7 @@ import headerImg from './images/sexy-girl-2.jpg';
 import sticker from './images/naked-girl-sticker-2.png';
 import { useMediaQuery } from 'react-responsive'
 
-function App() {
-    const isDesktopOrLaptop = useMediaQuery({
-     query: '(min-device-width: 1224px)'
-    })
-    const isBigScreen = useMediaQuery({ query: '(min-device-width: 1824px)' })
-    const isTabletOrMobile = useMediaQuery({ query: '(max-width: 1224px)' })
-    const isTabletOrMobileDevice = useMediaQuery({
-    query: '(max-device-width: 1224px)'
-    })  
+function App() { 
     const cityList = [{
       cityName:'Indore',
       areaList:['Vijay Nagar', 'Palasiya', 'AB Road', 'Bengali Square', 'Omaxe City', 'Rau', 'Ujjain Road']
@@ -140,7 +132,7 @@ function App() {
                       <a class="whatsapp-btn-2" href="https://api.whatsapp.com/send?phone=9241583647">
                         WhatsApp Me
                       </a>
-                      <a class="call-btn" href="tel:123-456-7890">Call Me</a>
+                      <a class="call-btn" href="tel:9241583647">Call Me</a>
                     </div> 
                   </div>
                 </div>
