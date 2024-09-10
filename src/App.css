@@ -149,6 +149,7 @@
   margin-bottom: 0vw;
   margin-top: 0vw;
   padding-bottom: 0vw;
+  padding-top: 0vw
 }
 
 .cgalImg {
@@ -304,6 +305,7 @@ li a:hover {
   margin-right: 1vw; 
   font-size: 2vw;
   margin-top: 1vw;
+  margin-bottom: 1vw;
 }
 
 .city-text {
