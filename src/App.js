@@ -65,7 +65,7 @@ function App() {
     {
       image: cgal5,
       cgalInfoHeader: 'Neha VIP Call Girl Available in indore',
-      cgalInfoDesc: 'Your satisfaction is our responsibility.⭐⭐💖 *Service. Available* 1.▪Kissing (French kiss also) 2.▪Liplock. 3.▪Blowjob. Without. Condom. 4.▪Oral sex. 5.▪Anal.sex 6.▪Sucking. 7.▪Fucking.'
+      cgalInfoDesc: 'Your satisfaction is our responsibility.⭐⭐💖 *Service. Available* 1.▪Kissing (French kiss also) 2.▪Liplock. 3.▪Blowjob. Without. Condom. 4.▪Oral sex. 5.▪Anal.sex 6.▪Sucking.'
     },
     {
       image: cgal6,
