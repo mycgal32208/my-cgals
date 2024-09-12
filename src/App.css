@@ -361,12 +361,13 @@ li a:hover {
 
 #whatsapp-button {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
+  bottom: 2vw;
+  right: 1vw;
+  margin-right: 1vw;
   z-index: 9999;
 }
 
 #whatsapp-button a img {
-  width: 60px; 
+  width: 6vw; 
   height: auto;
 }

@@ -195,6 +195,11 @@ function App() {
               <h2 class="bottom-header-text-2">@Copyright-2024 MyCgals.com- All Rights Reserved</h2>
             </div>
           </div>
+          <div id="whatsapp-button">
+            <a href="https://api.whatsapp.com/send?phone=9241583647" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="WhatsApp" />
+            </a>
+          </div>
         </div>
     );
 }
