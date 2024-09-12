@@ -89,11 +89,11 @@ function App() {
           <div class="header">
             <p class="header-text">VIP CALL GIRLS</p>
             <div class="header-buttons">
-              <a class="whatsapp-btn-2" href="https://api.whatsapp.com/send?phone=9241583647">
+              <a class="header-call-btn" href="tel:123-456-7890">Book Now</a>
+              <a class="whatsapp-btn-1" href="https://api.whatsapp.com/send?phone=9241583647">
                  Chat Now
               </a>
-              <a class="header-call-btn" href="tel:123-456-7890">Book Now</a>
-            </div>               
+            </div>              
           </div>
           <img class="header-img" src={headerImg} />
           <div class="info-Container-1">
