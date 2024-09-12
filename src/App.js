@@ -10,7 +10,6 @@ import cgal7 from './images/call-girl-7.jpeg';
 import cgal8 from './images/call-girl-8.jpeg';
 import headerImg from './images/sexy-girl-2.jpg';
 import sticker from './images/naked-girl-sticker-2.png';
-import { useMediaQuery } from 'react-responsive'
 
 function App() { 
     const cityList = [{
@@ -87,6 +86,7 @@ function App() {
     return (
         <div class="main-body">
           <div class="header">
+            <img class="sticker" src={sticker} />
             <p class="header-text">VIP CALL GIRLS</p>
             <div class="header-buttons">
               <a class="header-call-btn" href="tel:123-456-7890">Book Now</a>

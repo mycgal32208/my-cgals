@@ -43,7 +43,7 @@
 }
 
 .sticker {
-  width: 20%;
+  width: 25%;
   height: 40%;
   transform: translate(-80%, -10%);
   position: absolute;
@@ -82,8 +82,6 @@
   margin-right: auto;
   display: block;
   margin-bottom: 1vw;
-  padding-left: 1vw;
-  padding-right: 1.5vw
 }
 
 .info-Container-1 {
